@@ -1,18 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Test Practice
 
-> One paragraph statement about the project.
+> In this repository, I write a three practical tests for JavaScript functions using the Jest library.
+<!-- ![screenshot](./app_screenshot.png)
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+I use TDD approach by starting the development process by writing tests before writing the actual functions. -->
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JAVASCRIPT
+- GIT, GITHUB, LINTERS
 
 ## Live Demo
 
@@ -40,7 +38,6 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 
-
 ## Authors
 
 👤 **Author1**
@@ -49,11 +46,6 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 

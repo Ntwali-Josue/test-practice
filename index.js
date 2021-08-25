@@ -30,10 +30,14 @@ class Calculator {
   }
 }
 
-// console.log(Calculator.add(1,2))
+const capitalize = (string) => {
+  const capitalize = string.charAt(0).toUpperCase() + string.slice(1);
+  return capitalize;
+}
 
 module.exports = {
   stringLength, 
   reverseString, 
-  Calculator
+  Calculator,
+  capitalize,
 };

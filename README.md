@@ -12,46 +12,33 @@ I use TDD approach by starting the development process by writing tests before w
 - JAVASCRIPT
 - GIT, GITHUB, LINTERS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+> Have node.js installed in your sytems
 
 ### Setup
-
+> Clone the repo by using git clone https://github.com/Ntwali-Josue/test-practice.git
 ### Install
-
-### Usage
-
+> Run npm install
 ### Run tests
+> Run npm run test
 
-### Deployment
+## Author
 
+👤 **KARANGWA Ntwali Josue**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [Ntwali-Josue](https://github.com/Ntwali-Josue)
+- Twitter: [JosueNtwali](https://twitter.com/JosueNtwali)
+- LinkedIn: [karangwa](https://linkedin.com/in/karangwa)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Ntwali-Josue/issues/).
 
 ## Show your support
 

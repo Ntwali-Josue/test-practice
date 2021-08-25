@@ -21,4 +21,8 @@ describe('Calculator', () => {
     expect(Calculator.substract(2,1)).toBe(1)
   });
 
+  test('divide', () => {
+    expect(Calculator.divide(4,2)).toBe(2)
+  });
+
 });

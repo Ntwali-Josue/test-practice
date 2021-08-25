@@ -16,4 +16,9 @@ describe('Calculator', () => {
   test('add', () => {
     expect(Calculator.add(1,2)).toBe(3)
   });
+  
+  test('substract', () => {
+    expect(Calculator.substract(2,1)).toBe(1)
+  });
+
 });

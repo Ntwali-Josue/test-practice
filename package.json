@@ -1,0 +1,23 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "test function using jest",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ntwali-Josue/test-practice.git"
+  },
+  "author": "KARANGWA Ntwali Josue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ntwali-Josue/test-practice/issues"
+  },
+  "homepage": "https://github.com/Ntwali-Josue/test-practice#readme"
+}

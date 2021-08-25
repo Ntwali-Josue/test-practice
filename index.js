@@ -24,9 +24,9 @@ class Calculator {
     const divide = num1 / num2;
     return divide
   }
-  static multipy(num1,num2) {
-    const multipy = num1 * num2;
-    return multipy;
+  static multiply(num1,num2) {
+    const multiply = num1 * num2;
+    return multiply;
   }
 }
 

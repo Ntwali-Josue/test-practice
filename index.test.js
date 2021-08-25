@@ -1,4 +1,4 @@
-const {stringLength, reverseString, Calculator } =  require('./index');
+const {stringLength, reverseString, Calculator, capitalize } =  require('./index');
 
 test('test string length', () => {
   expect(stringLength('testing')).toBe(7);
@@ -29,3 +29,9 @@ describe('Calculator', () => {
     expect(Calculator.multiply(1,2)).toBe(2)
   });
 });
+
+describe('Capitalize', () => {
+  test('capitalize', () => {
+    expect(capitalize('test')).toBe('Test');
+  });
+})
